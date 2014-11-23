@@ -1,0 +1,29 @@
+{
+  "name": "<% appname %>",
+  "version": "0.1.0",
+  "description": "<% description %>",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akiran/<% appname %>"
+  },
+  "keywords": [
+    "react",
+    "media-query",
+    "responsive"
+  ],
+  "author": "<% author %>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akiran/<% appname %>/issues"
+  },
+  "homepage": "https://github.com/akiran/<% appname %>",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "verb": "0.3.6"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "generator-node-github-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akiran/generator-node-github-project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akiran/generator-node-github-project/issues"
+  },
+  "homepage": "https://github.com/akiran/generator-node-github-project",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "yeoman-generator": "^0.18.0",
+    "yosay": "^1.0.0"
+  }
+}

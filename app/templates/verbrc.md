@@ -1,0 +1,3 @@
+# {%= name %} {%= badge("fury") %}
+
+> {%= description %}
